@@ -8,11 +8,6 @@ import pandas as pd
 
 
 
-def trapeze_square(a,b,h):
-    cae = 0.5*(a+b)*h
-    return cae
-
-
 ######################
 # Page Title
 ######################
